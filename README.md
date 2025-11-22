@@ -42,8 +42,8 @@ AI chat interfaces weren't designed for long conversations. Finding a specific p
 ## 📥 Installation
 
 ### Option 1: Web Stores (Recommended)
-* **Chrome / Brave / Edge:** [Download from Chrome Web Store](LINK_HERE) *(Pending Review)*
-* **Firefox:** [Download from Firefox Add-ons](LINK_HERE) *(Coming Soon)*
+* **Chrome / Brave / Edge:** *(Pending Review)*
+* **Firefox:** *(Coming Soon)*
 
 ### Option 2: Manual Install (From Source)
 If you want the latest version immediately, you can install it manually.
